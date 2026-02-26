@@ -1,12 +1,18 @@
-## Hi, I am Khushi Saxena! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I'm Marco Lopez! Great to see you here! 👋
 
-I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I’m Marco Lopez, founder of a marketing & software development agency.  
+We specialize in building scalable digital solutions — from high-converting marketing campaigns to full-stack web applications.
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/khushi321/)
-[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](mailto:khushisaxenaa32@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
+I combine strategy, technology, and content production to help businesses grow through digital transformation.
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi0321&theme=xcode)](https://git.io/khushi0321)
+I’m always open to collaborations, tech partnerships, and innovative projects.  
+Feel free to connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Lopez-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Gmail Badge](https://img.shields.io/badge/-contact@tuagencia.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@tuagencia.com)](mailto:contact@tuagencia.com)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://tuagencia.cl)](https://tuagencia.cl)
+
+---
 
 ## ⚡ Technologies
 
@@ -30,12 +36,14 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
 
 ### Tools:
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VPS Cloud](https://img.shields.io/badge/-VPS%20Cloud-0A0A0A?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 ## 📈 Stats
 
