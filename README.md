@@ -69,3 +69,21 @@ No dudes en contactarme:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcolopez123&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+### 📊 Contribuciones del Perfil
+
+> 🧊 Contribuciones 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/marcolopez123/marcolopez123/main/profile-3d-contrib/profile-night-rainbow.svg"
+       alt="3D contributions" width="70%" />
+</div>
+
+---
+
+> 🐍 Animación de Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/marcolopez123/marcolopez123/output/github-contribution-grid-snake.svg"
+       alt="Snake animation" />
+</div>
