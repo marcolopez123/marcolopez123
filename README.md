@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Marco López</h1>
+<h1 align="center">Marco López</h1>
 <h3 align="center">Founder · Marketing & Software Development Agency</h3>
 
 <p align="center">
