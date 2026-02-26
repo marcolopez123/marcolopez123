@@ -60,6 +60,5 @@ No dudes en contactarme:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcolopez123&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcolopez123&theme=tokyonight" />
 </div>
-
