@@ -62,28 +62,22 @@ No dudes en contactarme:
 
 </div>
 
-## 📈 Actividad en GitHub
+#### 📊 Estadísticas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcolopez123&theme=tokyo-night&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-### 📊 Contribuciones del Perfil
-
-> 🧊 Contribuciones 3D
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcolopez123/marcolopez123/main/profile-3d-contrib/profile-night-rainbow.svg"
-       alt="3D contributions" width="70%" />
+
+<img height="170em" src="https://streak-stats.demolab.com?user=marcolopez123&theme=tokyonight&hide_border=true" />
+
 </div>
 
----
 
-> 🐍 Animación de Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marcolopez123/marcolopez123/output/github-contribution-grid-snake.svg"
-       alt="Snake animation" />
-</div>
