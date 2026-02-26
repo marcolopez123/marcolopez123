@@ -1,22 +1,22 @@
-## Hi, I'm Marco Lopez! Great to see you here! 👋
+## 👋 Hola, soy Marco López! ¡Qué gusto verte por aquí!
 
-I’m Marco Lopez, founder of a marketing & software development agency.  
-We specialize in building scalable digital solutions — from high-converting marketing campaigns to full-stack web applications.
+Soy Marco López, fundador de una agencia de marketing y desarrollo de software.  
+Nos especializamos en crear soluciones digitales escalables — desde campañas de marketing de alto rendimiento hasta aplicaciones web full-stack.
 
-I combine strategy, technology, and content production to help businesses grow through digital transformation.
+Combino estrategia, tecnología y producción de contenido para ayudar a las empresas a crecer a través de la transformación digital.
 
-I’m always open to collaborations, tech partnerships, and innovative projects.  
-Feel free to connect with me:
+Siempre estoy abierto a colaboraciones, alianzas tecnológicas y proyectos innovadores.  
+No dudes en contactarme:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marco%20Lopez-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@tuagencia.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@tuagencia.com)](mailto:contact@tuagencia.com)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://tuagencia.cl)](https://tuagencia.cl)
+[![Website Badge](https://img.shields.io/badge/-Sitio%20Web-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://tuagencia.cl)](https://tuagencia.cl)
 
 ---
 
-## ⚡ Technologies
+## ⚡ Tecnologías
 
-### Language :
+### 💻 Lenguajes:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ Feel free to connect with me:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### Libraries & Framework :
+### 🧩 Librerías y Frameworks:
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt 3](https://img.shields.io/badge/-Nuxt%203-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -34,7 +34,7 @@ Feel free to connect with me:
 ![Pinia](https://img.shields.io/badge/-Pinia-FADA5E?style=flat-square&logo=vue.js&logoColor=black)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square)
 
-### Tools:
+### 🛠 Herramientas:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -45,17 +45,11 @@ Feel free to connect with me:
 ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
-## 📈 Stats
+---
+
+## 📈 Estadísticas
 
 <p align="center">
-
- <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolopez123&theme=tokyonight" /> </p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolopez123&theme=tokyonight" />
 </p>
-
-<br>
-
-
------
-Credits: [Khushi Saxena](https://github.com/Khushi0321)
-
-Last Edited on: 30/11/2021
