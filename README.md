@@ -65,20 +65,8 @@ No dudes en contactarme:
 
 #### 📊 Estadísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="170em" src="https://streak-stats.demolab.com?user=marcolopez123&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marcolopez123&theme=tokyonight&hide_border=true" />
+</p>
 
 
