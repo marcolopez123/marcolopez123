@@ -51,13 +51,8 @@ No dudes en contactarme:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-</div>
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=marcolopez123&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
