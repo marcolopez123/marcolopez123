@@ -1,4 +1,4 @@
-## 👋 Hola, soy Marco López! ¡Qué gusto verte por aquí!
+Hola, soy Marco López! ¡Qué gusto verte por aquí!
 
 Soy Marco López, fundador de una agencia de marketing y desarrollo de software.  
 Nos especializamos en crear soluciones digitales escalables — desde campañas de marketing de alto rendimiento hasta aplicaciones web full-stack.
