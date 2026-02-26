@@ -60,10 +60,6 @@ No dudes en contactarme:
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcolopez123&theme=tokyonight" />
 </div>
 
