@@ -47,9 +47,17 @@ No dudes en contactarme:
 
 ---
 
-## 📈 Estadísticas
+## 📊 Métricas de Desarrollo
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolopez123&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolopez123&theme=tokyonight&hide_border=true" />
+
+</div>
