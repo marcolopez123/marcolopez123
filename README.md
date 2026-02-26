@@ -53,11 +53,17 @@ No dudes en contactarme:
   <img src="https://streak-stats.demolab.com?user=marcolopez123&theme=tokyonight&hide_border=true" />
 </p>
 
+<h2 align="center">📊 Estadísticas de GitHub</h2>
+
 <div align="center">
 
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcolopez123&theme=tokyonight" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcolopez123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolopez123&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 
