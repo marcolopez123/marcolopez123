@@ -28,7 +28,7 @@ Estoy abierto a colaboraciones, alianzas tecnológicas y proyectos innovadores.
 <p align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-lopez-muñoz-b6720512)
-[![Email](https://img.shields.io/badge/Email-escala360.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlopez@escala360.cl)
+[![Email](https://img.shields.io/badge/Email-mlopez@escala360.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlopez@escala360.cl)
 [![Sitio Web](https://img.shields.io/badge/Sitio%20Web-escala360.cl-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://escala360.cl)
 
 </p>
